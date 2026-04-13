@@ -51,7 +51,14 @@ The dataset contains:
 * Used pivot tables for analysis
 * Visual representation using charts
 
----
+--- 
+
+Skills Used
+
+- Data Analysis
+- Excel
+- Data Visualization
+- Pivot Tables
 
  How to Use
 
